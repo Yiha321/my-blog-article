@@ -1,0 +1,14 @@
+User-agent: Bingbot
+Disallow:
+Crawl-delay: 20
+
+User-agent: DuckDuckBot
+Disallow:
+Crawl-delay: 20
+
+User-agent: YandexBot
+Disallow:
+Crawl-delay: 20
+
+User-agent: *
+Disallow: /
